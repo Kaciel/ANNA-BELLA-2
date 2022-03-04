@@ -3,6 +3,7 @@ body {
     background-color: #d2d2c1;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    align-content: center;
 
 }
 
@@ -21,7 +22,7 @@ body {
 #conteudo {
     background-color: aliceblue;
     padding: 30px;
-    
+
 }
 
 a {
