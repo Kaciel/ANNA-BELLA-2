@@ -40,8 +40,9 @@ body {
 }
 
 #info-contato {
-    color: #4b566a;
-    border-radius: 0px solid 50px;
+    
+    background-color: #4b566a;
+    border-radius: 30px;
     text-align: center;
     padding: 30px;
     margin: 30px;
