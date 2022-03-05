@@ -74,7 +74,7 @@ h1 {
 
 .img-campanha {
     border: 2px solid #c3c3ae ;
-    display: flex;
+    display: block;
     justify-content: center;
     width: 50%;
 
