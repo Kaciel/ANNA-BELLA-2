@@ -90,7 +90,7 @@ h1 {
 }
 
 .img {
-    display: flex;
+    display: block;
     justify-content: center;
     width: 50%;
 } 
