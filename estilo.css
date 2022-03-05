@@ -65,8 +65,8 @@ h1 {
 }
 
 img {
-    align-items: center;
-    width: auto;
+    align-self: center;
+    width: 100%;
 }
 
 .img-campanha {
