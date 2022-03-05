@@ -56,6 +56,8 @@ body {
     text-align: center;
 }
 
+
+
 a {
     color: #4b566a;
     text-decoration: none;
@@ -81,8 +83,12 @@ h1 {
 
 .img-campanha {
     border: 2px solid #c3c3ae ;
+    
+
+}
+
+.img {
     display: flex;
     justify-content: center;
     width: 50%;
-
-}
+} 
