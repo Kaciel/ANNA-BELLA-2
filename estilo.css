@@ -87,13 +87,13 @@ h1 {
 
 .img-campanha {
     border: 2px solid #c3c3ae ;
-    
+    width: auto;
+    border-radius: 30px;
 
 }
 
 .img {
     display: block;
     margin: auto;
-    width: auto;
-    border-radius: 30px;
+    
 } 
