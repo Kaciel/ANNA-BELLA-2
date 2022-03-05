@@ -81,6 +81,7 @@ h1 {
 #img-capa {
     text-align: center;
     width: 100%;
+    display: block;
 }
 
 .img-campanha {
