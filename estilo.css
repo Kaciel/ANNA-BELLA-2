@@ -27,9 +27,9 @@ body {
 }
 
 #footer {
-    background-color: firebrick;
+    background-color: #c5c5b2;
     padding: 30px;
-    font-size: small;
+    
 }
 
 a {
@@ -49,4 +49,9 @@ a {
 h1 {
     color: #828271;
     font-size: 1.2em;
+}
+
+img {
+    align-items: center;
+    width: auto;
 }
