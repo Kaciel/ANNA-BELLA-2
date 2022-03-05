@@ -47,6 +47,10 @@ body {
     margin: 30px;
     display: block;
     justify-content: center;
+   
+}
+
+#dados-contato {
     color: aliceblue;
     font-size: medium;
     text-align: center;
