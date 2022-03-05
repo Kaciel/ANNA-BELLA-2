@@ -20,7 +20,7 @@ body {
     padding: 15px;
     font-weight: bold;
     color: #4b566a;
-    align-content: center;
+    text-align: center;
 }
 
 #conteudo {
@@ -42,7 +42,7 @@ body {
 #info-contato {
     color: #4b566a;
     border-radius: 0px solid 50px;
-    align-content: center;
+    text-align: center;
     padding: 30px;
     margin: 30px;
 }
@@ -65,7 +65,7 @@ h1 {
     font-size: 1.2em;
 }
 
- {
+#img-capa {
     align-self: center;
     width: 100%;
 }
@@ -73,4 +73,5 @@ h1 {
 .img-campanha {
     border: 2px solid #c3c3ae ;
     align-content: center;
+    text-align: center;
 }
