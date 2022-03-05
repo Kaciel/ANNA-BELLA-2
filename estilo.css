@@ -43,7 +43,6 @@ a {
     text-decoration: none;
     text-decoration-color: black;
     font-weight: bold;
-    border: 1px red;
     padding: 10px;
 
 }
@@ -60,4 +59,8 @@ h1 {
 img {
     align-items: center;
     width: auto;
+}
+
+.img-campanha {
+    border: 2px solid #c3c3ae ;
 }
