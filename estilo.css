@@ -43,9 +43,10 @@ body {
     
     background-color: #4b566a;
     border-radius: 30px;
-    text-align: center;
     padding: 30px;
     margin: 30px;
+    display: block;
+    justify-content: center;
 }
 
 a {
