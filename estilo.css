@@ -41,7 +41,7 @@ body {
 
 #info-contato {
     color: #4b566a;
-    border-radius: 50px;
+    border-radius: 0px solid 50px;
     align-content: center;
     padding: 30px;
     margin: 30px;
