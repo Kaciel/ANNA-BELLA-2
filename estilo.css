@@ -47,7 +47,8 @@ body {
     margin: 30px;
     display: block;
     justify-content: center;
-    color: aliceblue;
+    font: color"#FFFFFF";
+    font-size: medium;
 }
 
 a {
